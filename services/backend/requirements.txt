@@ -1,0 +1,5 @@
+fastapi==0.68.0
+uvicorn==0.14.0
+SQLAlchemy==1.4.36
+asyncpg
+sqlalchemy-views
